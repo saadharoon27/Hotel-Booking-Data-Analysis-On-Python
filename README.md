@@ -13,6 +13,8 @@
 - [Research Questions](#research-questions)
 - [Hypothesis](#hypothesis)
 - [Explore The Notebook](#explore-the-notebook)
+- [Research Findings](#research-findings)
+- [Suggestions](#suggestions)
 
 ## Business Problem
 In recent years, **City Hotel** and **Resort Hotel** have seen high cancellation rates. Each hotel is facing a number of issues as a result, including fewer revenues and less than-ideal hotel room use. Consequently, lowering cancellation rates is both hotels' primary goal in order to increase their efficiency in generating revenue and offer thorough business advice to address this problem. <br>
@@ -82,4 +84,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 **2.** _The majority of clients are coming from offline travel agents to make their reservations._
 
 ## Explore The Notebook
-To explore the notebook file click [here](
+To explore the notebook file click [**here**](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/cef94c56d17124528ecf66052d9f41a786551233/Hotel%20Data%20Analysis.ipynb)
+
+## Research Findings![image](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/assets/147087623/a4427d7b-64a5-4e25-a09d-df1e4aecdaac)
+
