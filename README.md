@@ -86,5 +86,42 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## Explore The Notebook
 To explore the notebook file click [**here**](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/cef94c56d17124528ecf66052d9f41a786551233/Hotel%20Data%20Analysis.ipynb)
 
-## Research Findings![image](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/assets/147087623/a4427d7b-64a5-4e25-a09d-df1e4aecdaac)
+## Research Findings
+- _**Cancellations**_ <br>
+  ![Reservation Status Count](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/e648d7356503c7612c13c471e90faba22d68da15/Assets/Pie1.png) <br>
+  The above graph shows the *percentage* of reservations that are **cancelled** and those that are **not**. It is *obvious* that there are still a *significant* number of reservations that have **not** been *cancelled*.   There are still *37%* of clients who *cancelled* their reservation, which has a *significant* impact on the hotel's earnings.
 
+- ***Number Of Bookings*** <br>
+  ![Reservation Status In Different Hotels](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/e648d7356503c7612c13c471e90faba22d68da15/Assets/Bar2.png) <br>
+  In comparison to *Resort Hotels*, *City Hotels* have *more* bookings. It is *possible* that due to its proximity to the city, *City Hotels* have *more* bookings.
+
+- **Correlation Between Price and Cancellation _(Hypotheses #1)_** <br>
+  ![Average Daily Rate In City And Resort Hotel](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/e648d7356503c7612c13c471e90faba22d68da15/Assets/Line3.png) <br>
+  The graph *proves* that *City Hotel* has a *higher* average price as well as a *higher* cancellation rate (41.7%) compared to *Resort Hotel* which is *cheaper*, as well as has *lower* cancellation rates (27.9%). <br>
+  
+  But does it influence the cancellation rate? Let's find out! <br>
+  
+  ![Reservation Status Per Month](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/e648d7356503c7612c13c471e90faba22d68da15/Assets/Bar4.png) <br>
+
+  The above bar graph represents the months with the *highest* and *lowest* reservation levels according to reservation status. We can analyze, the *highest* number of *cancelled* ‘1’ is in the month of *January* and the *highest* number of *reservations* ‘0’ in the month of *August*. <br>
+
+  ![ADR(Average Daily Rate) Per Month](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/e648d7356503c7612c13c471e90faba22d68da15/Assets/Bar5.png) <br>
+  To prove that *price* and *cancellations* are directly correlated, the *Average Daily Rate Per Month* graph (given above) can help us demonstrate that cancellations are most common when *prices* are the *greatest* (Month of *January*). <br>
+
+- ***Top Countries with Highest Cancellations*** <br>
+  ![Top Countries with Highest Cancellations](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/e648d7356503c7612c13c471e90faba22d68da15/Assets/Pie6.png) <br>
+  Portugal is the top country which has the highest cancellation percentage **(70.1%)**
+
+- **Majority Of Clients _(Hypotheses #2)_**  <br>
+  ![Top Countries with Highest Cancellations](https://github.com/saadharoon27/Hotel-Booking-Data-Analysis-On-Python/blob/e648d7356503c7612c13c471e90faba22d68da15/Assets/Bar7.png) <br>
+
+  The area from where guests are making the most reservations is through the **Online Travel Agent channel** ***(represented by a green bar)***.
+  
+  
+## Suggestions
+
+**1.** _Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the customers._ <br>
+
+**2.** _In the month of January, hotels can start campaigns advertising sales and subsidised rates to increase their revenue as the cancellation is the highest in this month._ <br>
+
+**3.** _They can also double down in increasing the quality of their hotels and their services mainly in Portugal to reduce its high cancellation rate._
